@@ -22,6 +22,17 @@
   link:
     url: ./docs/atc21-faasnet.pdf
     display: pdf
+  has_video: 1
+  video:
+    url: https://www.usenix.org/conference/atc21/presentation/wang-ao
+    display: video
+  arxiv:
+    url: https://arxiv.org/abs/2105.11229
+    display: arXiv
+  has_src: 1
+  src:
+    url: https://github.com/mason-leap-lab/FaaSNet
+    display: Project
   highlight: 
   news2:
 
