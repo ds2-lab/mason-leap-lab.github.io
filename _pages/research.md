@@ -9,7 +9,7 @@ permalink: /research/
 # Serverless Computing 
 
 Our work in serverless computing spans each layer of the stack, from
-applications, middleware and infrastructure, to lower-level OSes. 
+middleware and infrastructure, to applications, and to lower-level OSes. 
 
 
 ## Optimizing FaaS platform
