@@ -48,7 +48,7 @@ Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng<br/>
 
 ### Serverless parallel computing
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/wukong.jpg){: style="width: 30%; float: right; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/wukong.jpg){: style="width: 40%; float: right; margin: 10px  10px"}
 Executing complex, burst-parallel, directed acyclic graph (DAG) jobs
 poses a major challenge for serverless execution frameworks, which
 will need to rapidly scale and schedule tasks at high throughput,
@@ -76,7 +76,7 @@ Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng<br/>
 
 ## Optimizing FaaS platform
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/FaaSNet.jpg){: style="width: 40%; float: left; margin: 10px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research/FaaSNet.jpg){: style="width: 45%; float: left; margin: 10px  10px"}
 Custom FaaS container support is gaining traction as it enables
 better control over OSes, versioning, and tooling for modernizing
 FaaS applications. However, providing rapid container provisioning
