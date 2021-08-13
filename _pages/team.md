@@ -140,7 +140,7 @@ Jump to [faculty](#faculty), [phd students](#phd-students), [master students](#m
 {% endif %}
 
 
-## Master Students
+## Master's Students
 {% assign number_printed = 0 %}
 {% for member in site.data.master_students %}
 
