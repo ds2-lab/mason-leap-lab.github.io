@@ -11,6 +11,40 @@ permalink: /research/
 Our work in serverless computing spans each layer of the stack, from
 applications, middleware and infrastructure, to lower-level OSes. 
 
+
+## Optimizing FaaS platform
+
+![]({{ site.url }}{{ site.baseurl }}/images/research/FaaSNet.jpg){: style="width: 45%; float: right; margin: 10px  10px"}
+Custom FaaS container support is gaining traction as it enables
+better control over OSes, versioning, and tooling for modernizing
+FaaS applications. However, providing rapid container provisioning
+introduces non-trivial challenges for FaaS providers, since container
+provisioning is costly, and real-world FaaS workloads exhibit highly
+dynamic patterns. In this work, we design FaaSNet, a highly-scalable
+middleware system for accelerating FaaS container provisioning.
+FaaSNet is driven by the workload and infrastructure requirements of
+the FaaS platform at one of the world's largest cloud providers,
+Alibaba Cloud Function Compute. FaaSNet enables scalable container
+provisioning via a lightweight, adaptive function tree (FT)
+structure. FaaSNet uses an I/O efficient, on-demand fetching
+mechanism to further reduce provisioning costs at scale. We implement
+and integrate FaaSNet in Alibaba Cloud Function Compute. Evaluation
+results show that FaaSNet: (1) finishes provisioning 2,500 function
+containers on 1,000 virtual machines in 8.3 seconds, (2) scales 13.4×
+and 16.3× faster than Alibaba Cloud's current FaaS platform and a
+state-of-the-art P2P container registry (Kraken), respectively, and
+(3) sustains a bursty workload using 75.2% less time than an
+optimized baseline. **This work is in collaboration with Alibaba
+Cloud.**
+
+**paper and source code**
+
+*FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute*<br/>
+Ao Wang, Shuai Chang, Huangshi Tian, Hongqi Wang, Haoran Yang, Huiba Li, Rui Du, Yue Cheng<br/>
+[Paper]({{ site.url }}{{ site.baseurl }}/docs/atc21-faasnet.pdf),
+[Talk](https://www.usenix.org/conference/atc21/presentation/wang-ao),
+[Src & Dataset](https://github.com/mason-leap-lab/FaaSNet).
+
 ## New serverless applications
 
 ### Building a cost-effective memory cache atop serverless functions
@@ -72,40 +106,6 @@ Benjamin Carver, Jingyuan Zhang, Ao Wang, Ali Anwar, Panruo Wu, Yue Cheng<br/>
 [Talk](https://www.youtube.com/watch?v=W0tENnx_58I),
 [Website](https://mason-leap-lab.github.io/Wukong/),
 [GitHub](https://github.com/mason-leap-lab/Wukong/tree/socc2020).
-
-
-## Optimizing FaaS platform
-
-![]({{ site.url }}{{ site.baseurl }}/images/research/FaaSNet.jpg){: style="width: 45%; float: left; margin: 10px  10px"}
-Custom FaaS container support is gaining traction as it enables
-better control over OSes, versioning, and tooling for modernizing
-FaaS applications. However, providing rapid container provisioning
-introduces non-trivial challenges for FaaS providers, since container
-provisioning is costly, and real-world FaaS workloads exhibit highly
-dynamic patterns. In this work, we design FaaSNet, a highly-scalable
-middleware system for accelerating FaaS container provisioning.
-FaaSNet is driven by the workload and infrastructure requirements of
-the FaaS platform at one of the world's largest cloud providers,
-Alibaba Cloud Function Compute. FaaSNet enables scalable container
-provisioning via a lightweight, adaptive function tree (FT)
-structure. FaaSNet uses an I/O efficient, on-demand fetching
-mechanism to further reduce provisioning costs at scale. We implement
-and integrate FaaSNet in Alibaba Cloud Function Compute. Evaluation
-results show that FaaSNet: (1) finishes provisioning 2,500 function
-containers on 1,000 virtual machines in 8.3 seconds, (2) scales 13.4×
-and 16.3× faster than Alibaba Cloud's current FaaS platform and a
-state-of-the-art P2P container registry (Kraken), respectively, and
-(3) sustains a bursty workload using 75.2% less time than an
-optimized baseline. **This work is in collaboration with Alibaba
-Cloud.**
-
-**paper and source code**
-
-*FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute*<br/>
-Ao Wang, Shuai Chang, Huangshi Tian, Hongqi Wang, Haoran Yang, Huiba Li, Rui Du, Yue Cheng<br/>
-[Paper]({{ site.url }}{{ site.baseurl }}/docs/atc21-faasnet.pdf),
-[Talk](https://www.usenix.org/conference/atc21/presentation/wang-ao),
-[Src & Dataset](https://github.com/mason-leap-lab/FaaSNet).
 
 
 ## Rethinking the OS design for FaaS workloads
