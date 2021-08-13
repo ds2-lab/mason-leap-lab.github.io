@@ -26,6 +26,34 @@
   number_ric: 0
   ri1: 
 
+- name: Benjamin Carver
+  photo: daftpunkcat.jpg
+  info: PhD student, started Aug 2021
+  email: bcarver2 _(AT)_ gmu (dot) edu
+  number_ric: 0
+  ri1: 
+
+- name: Keshab Limbu (Manshi)
+  photo: codercat.jpg
+  info: PhD student, started Aug 2021
+  email: tbd _(AT)_ gmu (dot) edu
+  number_ric: 0
+  ri1: 
+
+- name: Rui Yang
+  photo: ironcat.png
+  info: PhD student, started Aug 2021
+  email: ryang22  _(AT)_ gmu (dot) edu
+  number_ric: 0
+  ri1: 
+
+- name: Zhaoyuan Su
+  photo: xtocat.jpg
+  info: PhD student, started Aug 2021
+  email: tbd  _(AT)_ gmu (dot) edu
+  number_ric: 0
+  ri1: 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: We are hiring
