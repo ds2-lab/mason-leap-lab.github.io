@@ -112,4 +112,5 @@ and [Adobe](https://www.adobe.com/).
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_GCP.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_IBM_Cloud.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Adobe.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Amazon.svg" style="width: 150px">
 </figure>
