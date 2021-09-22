@@ -22,7 +22,7 @@
   link:
     url: ./docs/sc21-fedat.pdf
     display: pdf
-  arxiv:
+  has_arxiv: 1
     url: https://arxiv.org/abs/2010.05958
     display: arXiv
   highlight: 
@@ -42,7 +42,7 @@
   video:
     url: https://www.usenix.org/conference/atc21/presentation/wang-ao
     display: video
-  arxiv:
+  has_arxiv: 1
     url: https://arxiv.org/abs/2105.11229
     display: arXiv
   has_src: 1
