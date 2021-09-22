@@ -20,8 +20,11 @@
     url: https://sc21.supercomputing.org/
     display: "SC'21"
   link:
-    url: 
+    url: ./docs/sc21-fedat.pdf
     display: pdf
+  arxiv:
+    url: https://arxiv.org/abs/2010.05958
+    display: arXiv
   highlight: 
   news2:
 
