@@ -34,7 +34,7 @@
   news2:
 
 - title: "FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute"
-  image: 
+  image: FaaSNet.jpg
   description: "FaaSNet is a highly-scalable middleware
 system for accelerating FaaS container provisioning. FaaSNet is
 driven by the workload and infrastructure requirements of the FaaS
@@ -307,7 +307,7 @@ be easily extended for new types of services. "
   src:
     url: https://github.com/mason-leap-lab/bespokv
     display: GitHub
-  highlight: 1
+  highlight: 
   news2:
 
 - title: "Characterizing Co-located Datacenter Workloads: An Alibaba Case Study"
