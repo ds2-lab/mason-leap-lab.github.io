@@ -63,7 +63,7 @@ FaaSNet in Alibaba Cloud Function Compute. "
   src:
     url: https://github.com/mason-leap-lab/FaaSNet
     display: Project
-  highlight: 
+  highlight: 1
   news2:
 
 - title: "Toward Model Parallelism for Deep Neural Network based on Gradient-free ADMM Framework"
