@@ -35,7 +35,15 @@
 
 - title: "FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute"
   image: 
-  description: 
+  description: "FaaSNet is a highly-scalable middleware
+system for accelerating FaaS container provisioning. FaaSNet is
+driven by the workload and infrastructure requirements of the FaaS
+platform at one of the world’s largest cloud providers, Alibaba Cloud
+Function Compute. FaaSNet enables scalable container provisioning via
+a lightweight, adaptive function tree (FT) structure. FaaSNet uses an
+I/O efficient, on-demand fetching mechanism to further reduce
+provisioning costs at scale. We have implemented and integrated
+FaaSNet in Alibaba Cloud Function Compute. "
   authors: Ao Wang, Shuai Chang, Huangshi Tian, Hongqi Wang, Haoran Yang, Huiba Li, Rui Du, Yue Cheng
   conf:
     url: https://www.usenix.org/conference/atc21
