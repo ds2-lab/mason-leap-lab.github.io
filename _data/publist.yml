@@ -7,8 +7,12 @@
     url: https://acmsocc.org/2021/index.html
     display: "SoCC'21"
   link:
-    url: 
+    url: ./docs/socc21-rkube.pdf
     display: pdf
+  has_src: 1
+  src:
+    url: https://github.com/njuliuli/kubernetes/tree/policy
+    display: Project
   highlight: 
   news2:
 
