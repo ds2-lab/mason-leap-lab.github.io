@@ -128,7 +128,14 @@ tenant-side cost savings compared to the state-of-the-art."
 
 - title: "TiFL: A Tier-based Federated Learning System"
   image: 
-  description: 
+  description: "TiFL is a Tier-based Federated Learning System, which
+divides clients into tiers based on their training performance and
+selects clients from the same tier in each training round to mitigate
+the straggler problem caused by heterogeneity in resource anddata
+quantity. To further tame the heterogeneity caused by non-IID
+(Independent and Identical Distribution) data and resources, TiFL
+employs an adaptive tier selection approach to update the tiering
+on-the-fly based on the observed training performance and accuracy. "
   authors: Zheng Chai, Ahsan Ali, Syed Zawad, Stacey Truex, Ali Anwar, Nathalie Baracaldo, Yi Zhou, Heiko Ludwig, Feng Yan, Yue Cheng
   conf:
     url: http://hpdc.org/2020/
@@ -144,7 +151,7 @@ tenant-side cost savings compared to the state-of-the-art."
   src:
     url: 
     display: 
-  highlight: 
+  highlight: 1
   news2:
 
 - title: "InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache"
@@ -243,7 +250,7 @@ such resource and data heterogeneity in FL systems."
   src:
     url:
     display: 
-  highlight: 1
+  highlight:
   news2:
 
 - title: "vCPU as a Container: Towards Accurate CPU Allocation for VMs"
