@@ -127,7 +127,7 @@ tenant-side cost savings compared to the state-of-the-art."
   news2:
 
 - title: "TiFL: A Tier-based Federated Learning System"
-  image: 
+  image: fl_arch.jpg
   description: "TiFL is a Tier-based Federated Learning System, which
 divides clients into tiers based on their training performance and
 selects clients from the same tier in each training round to mitigate
