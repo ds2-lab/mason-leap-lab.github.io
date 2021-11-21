@@ -79,6 +79,19 @@ FaaSNet in Alibaba Cloud Function Compute. "
   highlight: 
   news2:
 
+- title: "Wukong: A Fast, Cost-Effective, and Easy-to-Use Serverless DAG Engine"
+  image: 
+  description: 
+  authors: Benjamin Carver
+  conf:
+    url: https://mars.gmu.edu/xmlui/handle/1920/12093
+    display: "Ben's Master's Thesis"
+  link:
+    url: https://mars.gmu.edu/xmlui/bitstream/handle/1920/12093/Carver_thesis_2021.pdf?sequence=1&isAllowed=y
+    display: pdf
+  highlight: 
+  news2:
+
 - title: "Wukong: A Scalable and Locality-Enhanced Framework for Serverless Parallel Computing"
   image: wukong.png
   description: "Our new serverless parallel framework, Wukong,
