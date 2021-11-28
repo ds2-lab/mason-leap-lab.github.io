@@ -2,8 +2,9 @@
   photo: ZhengChai.jpg
   info: PhD student, started Aug 2018
   email: zchai2 _(AT)_ gmu (dot) edu
-  number_ric: 1
+  number_ric: 2
   ri1: Machine learning systems
+  ri2: Federated learning
 
 - name: <a target="_blank" href="https://wangaoone.github.io/">Ao Wang</a>
   photo: AoWang.jpeg
@@ -16,8 +17,9 @@
   photo: JingyuanZhang.jpg
   info: PhD student, started Aug 2018
   email: jzhang33 _(AT)_ gmu (dot) edu
-  number_ric: 1
-  ri1: Cloud and storage
+  number_ric: 2
+  ri1: Cloud storage
+  ri2: Serverless GPU computing
 
 - name: Yuqi Fu
   photo: Yuqi.jpg
