@@ -51,7 +51,7 @@ InfiniCloud as a basis for various educational activities including
 curriculum development, diversity building, undergraduate engagement,
 and workshops.
 
-This project is funded by an [NSF CAREER Award #2045680](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045680)
+This project is funded by an [NSF CAREER Award #2045680](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2045680).
 
 
 # Related Publications
