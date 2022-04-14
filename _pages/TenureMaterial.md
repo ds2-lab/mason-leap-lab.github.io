@@ -14,7 +14,9 @@ permalink: /TenureMaterial/
 
 * Evidence for Research and Scholarly Achievements
 	* Selected recent publications ([Complete list of publications](https://cs.gmu.edu/~yuecheng/publications.html){:target="\_blank"})
-
+		- [FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute](https://cs.gmu.edu/~yuecheng/docs/atc21-faasnet.pdf){:target="\_blank"} <br/>
+		Ao Wang, Shuai Chang, Huangshi Tian, Hongqi Wang, Haoran Yang, Huiba Li, Rui Du, Yue Cheng<br/>
+		2021 USENIX Annual Technical Conference (USENIX ATC'21) [Acceptance rate = 18.8%]
 
 
 
