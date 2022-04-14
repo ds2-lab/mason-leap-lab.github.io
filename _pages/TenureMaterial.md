@@ -41,7 +41,7 @@ permalink: /TenureMaterial/
 	Ali Anwar, Yue Cheng, Hai Huang, Jingoo Han, Hyogi Sim, Dongyoon Lee, Fred Douglis, Ali R. Butt <br/>
 	The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'18) [Acceptance rate = 23.6%]
 
-	- [Improving Docker Registry Design based on Production Workload Analysis](https://cs.gmu.edu/~yuecheng/docs/fast18-docker.pdf){:target=:\_blank"} <br/>
+	- [Improving Docker Registry Design based on Production Workload Analysis](https://cs.gmu.edu/~yuecheng/docs/fast18-docker.pdf){:target=:"\_blank"} <br/>
 	Ali Anwar, Mohamed Mohamed, Vasily Tarasov, Michael Littley, Lukas Rupprecht, Yue Cheng, Nannan Zhao, Dimitrios Skourtis, Amit S. Warke, Heiko Ludwig, Dean Hildebrand, Ali R. Butt <br/>
 	USENIX Conference on File and Storage Techniques 2018 (USENIX FAST'18) [Acceptance rate = 16.4%]
 
