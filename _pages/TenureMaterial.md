@@ -45,6 +45,6 @@ permalink: /TenureMaterial/
 	Yue Cheng, Fred Douglis, Philip Shilane, Michael Trachtman, Grant Wallace, Peter Desnoyers, Kai Li <br/>
 	USENIX Annual Technical Conference 2016(USENIX ATC'16) [Acceptance rate = 17.7%]
 	
-* [Google Scholar Profile (publications sorted by citations)](https://scholar.google.com/citations?user=TMGwBH0AAAAJ&hl=en) 
-* [Google Scholar Profile (publications in reverse chronological order)](https://scholar.google.com/citations?hl=en&user=TMGwBH0AAAAJ&view_op=list_works&sortby=pubdate) 
+* [Google Scholar Profile (publications sorted by citations)](https://scholar.google.com/citations?user=TMGwBH0AAAAJ&hl=en){:target="\_blank"} 
+* [Google Scholar Profile (publications in reverse chronological order)](https://scholar.google.com/citations?hl=en&user=TMGwBH0AAAAJ&view_op=list_works&sortby=pubdate){:target="\_blank"}
 
