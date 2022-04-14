@@ -8,7 +8,7 @@ permalink: /TenureMaterial/
 
 # Tenure Application Documents
 
-## Statement, employment chronology, and vita
+## Statement, Employment Chronology, and Vita
 
 * [Research and Teaching Statement](/docs/tenure/YueCheng_Research_Teaching_Statement.pdf){:target="\_blank"}
 * [Employment Chronology](/docs/tenure/YueCheng_Employment_Chronology.pdf){:target="\_blank"}
