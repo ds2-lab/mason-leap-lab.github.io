@@ -10,9 +10,9 @@ permalink: /TenureMaterial/
 
 ## Statement, Employment Chronology, and Vita
 
-* [Research and Teaching Statement](/docs/tenure/YueCheng_Research_Teaching_Statement.pdf){:target="\_blank"}
-* [Employment Chronology](/docs/tenure/YueCheng_Employment_Chronology.pdf){:target="\_blank"}
-* [Curriculum Vitae](/docs/tenure/YueCheng_CV.pdf){:target="\_blank"}
+* [Research and Teaching Statement](https://cs.gmu.edu/~yuecheng/docs/tenure/YueCheng_Research_Teaching_Statement.pdf){:target="\_blank"}
+* [Employment Chronology](https://cs.gmu.edu/~yuecheng/docs/tenure/YueCheng_Employment_Chronology.pdf){:target="\_blank"}
+* [Curriculum Vitae](https://cs.gmu.edu/~yuecheng/docs/tenure/YueCheng_CV.pdf){:target="\_blank"}
 
 ## Evidence for Research and Scholarly Achievements
 
@@ -56,15 +56,15 @@ permalink: /TenureMaterial/
 
 ## Evidentiary Materials for Teaching Effectiveness
 
-* [Student course evaluation summaries](XX){:target="\_blank"}
+* [Student course evaluation summaries](https://cs.gmu.edu/~yuecheng/docs/tenure/YueCheng_Course_Evaluation_Summary.pdf){:target="\_blank"}
 * Curriculum development
 	- CS 795: Distributed Systems & Cloud Computing [[Fall'18]](https://cs.gmu.edu/~yuecheng/teaching/cs795_fall18/index.html){:target="\_blank"}
 	- CS 675: Distributed Systems [[Spring'20]](https://tddg.github.io/cs675-spring20/){:target="\_blank"}
 	- CS 571: Operating Systems [[Spring'22]](https://tddg.github.io/cs571-spring22/){:target="\_blank"} [[Spring'21]](https://tddg.github.io/cs571-spring21/){:target="\_blank"} [[Spring'20]](https://tddg.github.io/cs571-spring20/){:target="\_blank"}
 	- CS 475: Concurrent and Distributed Systems [[Fall'21]](https://tddg.github.io/cs475-fall21/){:target="\_blank"}
 	- CS 471: Operating Systems [[Fall'19]](https://cs.gmu.edu/~yuecheng/teaching/cs471_fall19/){:target="\_blank"} [[Spring'19]](https://cs.gmu.edu/~yuecheng/teaching/cs471_spring19/){:target="\_blank"} [[Fall'17]](https://cs.gmu.edu/~yuecheng/teaching/cs471_fall17/){:target="\_blank"}
-* [Summer Impact Project Grant Proposal (Spring'18)](XX){:target="\_blank"}
-* [List of students advised](XX){:target="\_blank"}
+* [Summer Impact Project Grant Proposal (Spring'18)](https://cs.gmu.edu/~yuecheng/docs/tenure/IoT_baseball_proposal.pdf){:target="\_blank"}
+* [List of students advised](https://cs.gmu.edu/~yuecheng/docs/tenure/YueCheng_Student_Advising.pdf){:target="\_blank"}
 
 
 
