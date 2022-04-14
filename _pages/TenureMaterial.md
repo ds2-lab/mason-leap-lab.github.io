@@ -56,15 +56,15 @@ permalink: /TenureMaterial/
 
 ## Evidentiary Materials for Teaching Effectiveness
 
-* [Student course evaluation summaries](XX)
+* [Student course evaluation summaries](XX){:target="\_blank"}
 * Curriculum development
-	- CS 795: Distributed Systems & Cloud Computing [[Fall'18]](https://cs.gmu.edu/~yuecheng/teaching/cs795_fall18/index.html)
-	- CS 675: Distributed Systems [[Spring'20]](https://tddg.github.io/cs675-spring20/)
-	- CS 571: Operating Systems [[Spring'22]](https://tddg.github.io/cs571-spring22/) [[Spring'21]](https://tddg.github.io/cs571-spring21/) [[Spring'20]](https://tddg.github.io/cs571-spring20/)
-	- CS 475: Concurrent and Distributed Systems [[Fall'21]](https://tddg.github.io/cs475-fall21/)
-	- CS 471: Operating Systems [[Fall'19]](https://cs.gmu.edu/~yuecheng/teaching/cs471_fall19/) [[Spring'19]](https://cs.gmu.edu/~yuecheng/teaching/cs471_spring19/) [[Fall'17]](https://cs.gmu.edu/~yuecheng/teaching/cs471_fall17/)
-* [Summer Impact Project Grant Proposal (Spring'18)](XX)
-* [List of students advised](XX)
+	- CS 795: Distributed Systems & Cloud Computing [[Fall'18]](https://cs.gmu.edu/~yuecheng/teaching/cs795_fall18/index.html){:target="\_blank"}
+	- CS 675: Distributed Systems [[Spring'20]](https://tddg.github.io/cs675-spring20/){:target="\_blank"}
+	- CS 571: Operating Systems [[Spring'22]](https://tddg.github.io/cs571-spring22/){:target="\_blank"} [[Spring'21]](https://tddg.github.io/cs571-spring21/){:target="\_blank"} [[Spring'20]](https://tddg.github.io/cs571-spring20/){:target="\_blank"}
+	- CS 475: Concurrent and Distributed Systems [[Fall'21]](https://tddg.github.io/cs475-fall21/){:target="\_blank"}
+	- CS 471: Operating Systems [[Fall'19]](https://cs.gmu.edu/~yuecheng/teaching/cs471_fall19/){:target="\_blank"} [[Spring'19]](https://cs.gmu.edu/~yuecheng/teaching/cs471_spring19/){:target="\_blank"} [[Fall'17]](https://cs.gmu.edu/~yuecheng/teaching/cs471_fall17/){:target="\_blank"}
+* [Summer Impact Project Grant Proposal (Spring'18)](XX){:target="\_blank"}
+* [List of students advised](XX){:target="\_blank"}
 
 
 
