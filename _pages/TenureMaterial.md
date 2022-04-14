@@ -33,15 +33,15 @@ permalink: /TenureMaterial/
 	Ao Wang, Jingyuan Zhang, Xiaolong Ma, Ali Anwar, Lukas Rupprecht, Dimitrios Skourtis, Vasily Tarasov, Feng Yan, Yue Cheng <br/>
 	USENIX Conference on File and Storage Techniques 2020 (USENIX FAST'20) [Acceptance rate = 16.7%]
 
-	- [BESPOKV: Application Tailored Scale-Out Key-Value Stores](https://cs.gmu.edu/~yuecheng/docs/sc18-bespokv-aa.pdf){:target="\_blank"}
+	- [BESPOKV: Application Tailored Scale-Out Key-Value Stores](https://cs.gmu.edu/~yuecheng/docs/sc18-bespokv-aa.pdf){:target="\_blank"} <br/>
 	Ali Anwar, Yue Cheng, Hai Huang, Jingoo Han, Hyogi Sim, Dongyoon Lee, Fred Douglis, Ali R. Butt <br/>
 	The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'18) [Acceptance rate = 23.6%]
 
-	- [Improving Docker Registry Design based on Production Workload Analysis](https://cs.gmu.edu/~yuecheng/docs/fast18-docker.pdf){:target=:\_blank"}
+	- [Improving Docker Registry Design based on Production Workload Analysis](https://cs.gmu.edu/~yuecheng/docs/fast18-docker.pdf){:target=:\_blank"} <br/>
 	Ali Anwar, Mohamed Mohamed, Vasily Tarasov, Michael Littley, Lukas Rupprecht, Yue Cheng, Nannan Zhao, Dimitrios Skourtis, Amit S. Warke, Heiko Ludwig, Dean Hildebrand, Ali R. Butt <br/>
 	USENIX Conference on File and Storage Techniques 2018 (USENIX FAST'18) [Acceptance rate = 16.4%]
 
-	- [Erasing Belady's Limitations: In Search of Flash Cache Offline Optimality](https://cs.gmu.edu/~yuecheng/docs/atc16-paper-cheng.pdf){:target="\_blank"}
+	- [Erasing Belady's Limitations: In Search of Flash Cache Offline Optimality](https://cs.gmu.edu/~yuecheng/docs/atc16-paper-cheng.pdf){:target="\_blank"} <br/>
 	Yue Cheng, Fred Douglis, Philip Shilane, Michael Trachtman, Grant Wallace, Peter Desnoyers, Kai Li <br/>
 	USENIX Annual Technical Conference 2016(USENIX ATC'16) [Acceptance rate = 17.7%]
 	
