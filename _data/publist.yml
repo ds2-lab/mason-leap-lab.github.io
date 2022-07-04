@@ -66,6 +66,19 @@ FaaSNet in Alibaba Cloud Function Compute. "
   highlight: 1
   news2:
 
+- title: "Community-based Layerwise Distributed Training of Graph Convolutional Networks"
+  image: 
+  description: 
+  authors: Hongyi Li, Junxiang Wang, Yongchao Wang, Yue Cheng, Liang Zhao
+  conf:
+    url: https://opt-ml.org/
+    display: "The 13th International (Virtual) OPT Workshop on Optimization for Machine Learning (OPT '21)"
+  has_arxiv: 1
+    url: https://arxiv.org/abs/2112.09335
+    display: arXiv
+  highlight: 
+  news2:
+
 - title: "Wukong: A Fast, Cost-Effective, and Easy-to-Use Serverless DAG Engine"
   image: 
   description: 
