@@ -72,7 +72,10 @@ FaaSNet in Alibaba Cloud Function Compute. "
   authors: Hongyi Li, Junxiang Wang, Yongchao Wang, Yue Cheng, Liang Zhao
   conf:
     url: https://opt-ml.org/
-    display: "The 13th International (Virtual) OPT Workshop on Optimization for Machine Learning (OPT '21)"
+    display: "OPT '21"
+  link:
+    url: ./docs/opt21-gnnadmm.pdf
+    display: pdf
   has_arxiv: 1
   arxiv:
     url: https://arxiv.org/abs/2112.09335
