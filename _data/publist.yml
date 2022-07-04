@@ -74,6 +74,7 @@ FaaSNet in Alibaba Cloud Function Compute. "
     url: https://opt-ml.org/
     display: "The 13th International (Virtual) OPT Workshop on Optimization for Machine Learning (OPT '21)"
   has_arxiv: 1
+  arxiv:
     url: https://arxiv.org/abs/2112.09335
     display: arXiv
   highlight: 
