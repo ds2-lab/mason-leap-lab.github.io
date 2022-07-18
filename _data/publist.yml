@@ -1,3 +1,36 @@
+- title: "Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization"
+  image: 
+  description: 
+  authors: Zheng Chai, Guangji Bai, Liang Zhao, Yue Cheng
+  conf:
+    url: 
+    display:
+  link:
+    url: 
+    display: 
+  has_arxiv: 1
+  arxiv:
+    url: https://arxiv.org/abs/2206.00057
+    display: arXiv
+  highlight: 
+  news2:
+
+- title: "Smart OS Scheduling for Serverless Functions"
+  image: 
+  description: 
+  authors: Yuqi Fu, Li Liu, Haoliang Wang, Yue Cheng, Songqing Chen
+  conf:
+    url: https://sc22.supercomputing.org/
+    display: "SC'22"
+  link:
+    url: 
+    display: 
+  has_src: 
+  src:
+    url: https://github.com/njuliuli/kubernetes/tree/policy
+    display: Project
+  highlight: 
+  news2:
 
 - title: "Mind the Gap: Broken Promises of CPU Reservations in Containerized Multi-tenant Clouds"
   image: 
