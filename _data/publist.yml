@@ -22,9 +22,6 @@
   conf:
     url: https://sc22.supercomputing.org/
     display: "SC'22"
-  link:
-    url: 
-    display: 
   has_src: 
   src:
     url: https://github.com/njuliuli/kubernetes/tree/policy
